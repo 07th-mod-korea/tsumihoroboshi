@@ -1485,8 +1485,8 @@ void main()
 		char Choice2[2];
 
 		if (GetGlobalFlag(GLanguage) == 1) {
-			Choice2[0] = "Satoko, are you still there?! There's no time!!";
-			Choice2[1] = "Well, Satoko?! You should be able to figure it out!!";
+			Choice2[0] = "사토코, 아직 멀었어?! 이제 시간이 없어!!";
+			Choice2[1] = "사토코, 어때?! 너라면 알아낼 수 있어!!";
 		} else {
 			Choice2[0] = "沙都子、まだかっ？！　もう時間がないぞ！！";
 			Choice2[1] = "沙都子、どうだっ？！　お前ならわかるはずだ！！";

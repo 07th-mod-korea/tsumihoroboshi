@@ -976,8 +976,8 @@ void main()
 		char Choice1[2];
 
 		if (GetGlobalFlag(GLanguage) == 1) {
-			Choice1[0] = "It'll be all right";
-			Choice1[1] = "...Yeah, I guess";
+			Choice1[0] = "괜찮아.";
+			Choice1[1] = "...그렇구나.";
 		} else {
 			Choice1[0] = "大丈夫だ";
 			Choice1[1] = "…そうだな";
